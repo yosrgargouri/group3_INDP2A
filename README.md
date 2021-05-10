@@ -2,7 +2,7 @@
 -Tools:
 Node.js
 MongoDB
-Text editor (Atom, Sublime, etc) (Read more: Best Text Editor? Atom vs Sublime vs Visual Studio Code vs Vim)
+VScode
 Postman
 ____________________________________________________________________________________________________________
 Démarche 
