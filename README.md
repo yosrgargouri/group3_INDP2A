@@ -1,4 +1,13 @@
 # group3_INDP2A
+-Tools:
+Node.js
+MongoDB
+Text editor (Atom, Sublime, etc) (Read more: Best Text Editor? Atom vs Sublime vs Visual Studio Code vs Vim)
+Postman
+____________________________________________________________________________________________________________
+Démarche 
+____________________________________________________________________________________________________________
+
 - Redirect to todolistapi folder : 
 
 cd todolistapi 
