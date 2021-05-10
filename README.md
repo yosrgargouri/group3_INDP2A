@@ -6,7 +6,11 @@ npm install
 
 npm run start
 
+
+_____________________________________________________
+
 To Do List with html css javascript using mvc design
+_____________________________________________________
 
 Du 19 au 25 avril :  se familiariser avec  HTML ainsi que CSS et puis utiliser les connaisances acquises pour créer la page index.html et style.css.
 
