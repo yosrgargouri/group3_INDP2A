@@ -1,7 +1,9 @@
 # group3_INDP2A
-- Installations
+- Installations :
+
 npm install
-- Run
+- Run :
+
 npm run start
 
 To Do List with html css javascript using mvc design
