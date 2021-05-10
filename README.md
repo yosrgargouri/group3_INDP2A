@@ -1,4 +1,8 @@
 # group3_INDP2A
+- Redirect to todolistapi folder : 
+
+cd todolistapi 
+
 - Installations :
 
 npm install
